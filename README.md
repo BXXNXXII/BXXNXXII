@@ -59,7 +59,7 @@
   </a>
 
   <a href="https://github.com/BXXNXXII/COW-REACT-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BXXNXXII&repo=COW-REACT-6&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=박규빈&repo=COW-REACT-6&theme=tokyonight" />
   </a>
 </p>
 
@@ -73,16 +73,16 @@
 <h2 align="center">🏅 Stats</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BXXNXXII&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BXXNXXII&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=박규빈&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=박규빈&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BXXNXXII&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=박규빈&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BXXNXXII&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=박규빈&theme=github-compact&hide_border=true" />
 </p>
 
 <br/>
@@ -98,7 +98,6 @@
   </a>
 </p>
 
-<!-- 하단 푸터 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
