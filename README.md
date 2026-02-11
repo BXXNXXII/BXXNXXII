@@ -1,36 +1,104 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=GYUBIN's%20Github&animation=fadeIn&fontColor=5c5c5c&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
-          <br/></div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/bxxnxxii/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/bxxnxxii/"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
-         <a href=mailto:qkrrbqls1011@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qkrrbqls1011@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBXXNXXII%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=BXXNXXII&custom_title=BXXNXXII's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BXXNXXII&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
-    
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=GYUBIN%20GitHub&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&width=760&lines=Frontend+Developer+%F0%9F%8E%A8;React+%2F+TypeScript+%2F+UI+Engineering;I+build+clean%2C+fast%2C+usable+interfaces" />
+</p>
+
+<p align="center">
+  <b>Frontend Developer</b> · React · TypeScript · TailWind · UI/UX · Web Performance
+</p>
+
+<br/>
+
+
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+  사용자 경험을 기준으로 화면을 설계하고, <b>재사용 가능한 컴포넌트</b>와 <b>깔끔한 상태관리</b>를 지향해요.<br/>
+  빠르게 개발하되, 유지보수 가능한 구조로 만드는 걸 좋아합니다.
+</p>
+
+<p align="center">
+  ✅ 관심사: Component Design · 상태관리 · 성능 최적화 · 협업(디자인/백엔드)<br/>
+  ✅ 목표: “예쁜데 세련되고 안정적인” 프론트엔드 만들기
+</p>
+
+<br/>
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+</p>
+
+<h3 align="center">UI / Styling</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+<h3 align="center">Collaboration / Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
+<br/>
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/COW-MJU-Craft/COW-MJCRAFT-FE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=COW-MJU-Craft&repo=COW-MJCRAFT-FE&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/BXXNXXII/COW-REACT-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BXXNXXII&repo=COW-REACT-6&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <b>명지공방 FE</b> · React 기반 UI 구현 · 사용자 플로우/컴포넌트 설계<br/>
+  <b>COW-REACT-6</b> · React 학습/실험 · 컴포넌트/상태관리 연습
+</p>
+
+<br/>
+
+<h2 align="center">🏅 Stats</h2>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BXXNXXII&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BXXNXXII&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BXXNXXII&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BXXNXXII&theme=github-compact&hide_border=true" />
+</p>
+
+<br/>
+
+<h2 align="center">📫 Contact</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/bxxnxxii">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:qkrrbqls0511@mju.ac.kr">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<!-- 하단 푸터 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
