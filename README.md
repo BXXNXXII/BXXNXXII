@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=GYUBIN%20GitHub&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%EB%B0%95%EA%B7%9C%EB%B9%88%20GitHub&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -7,17 +7,16 @@
 </p>
 
 <p align="center">
-  <b>Frontend Developer</b> · React · TypeScript · TailWind · UI/UX · Web Performance
+  <b>Frontend Developer</b> · React · TypeScript · Tailwind · UI/UX · Web Performance
 </p>
 
 <br/>
 
-
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-  사용자 경험을 기준으로 화면을 설계하고, <b>재사용 가능한 컴포넌트</b>와 <b>깔끔한 상태관리</b>를 지향해요.<br/>
-  빠르게 개발하되, 유지보수 가능한 구조로 만드는 걸 좋아합니다.
+  안녕하세요, <b>프론트엔드 개발자 박규빈</b>입니다.<br/>
+  사용자 경험을 기준으로 화면을 설계하고, <b>재사용 가능한 컴포넌트</b>와 <b>깔끔한 상태관리</b>를 지향해요.
 </p>
 
 <p align="center">
@@ -38,6 +37,7 @@
 
 <h3 align="center">UI / Styling</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
@@ -55,11 +55,11 @@
 
 <p align="center">
   <a href="https://github.com/COW-MJU-Craft/COW-MJCRAFT-FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=COW-MJU-Craft&repo=COW-MJCRAFT-FE&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=COW-MJU-Craft&repo=COW-MJCRAFT-FE&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/BXXNXXII/COW-REACT-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=박규빈&repo=COW-REACT-6&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BXXNXXII&repo=COW-REACT-6&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -73,16 +73,16 @@
 <h2 align="center">🏅 Stats</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=박규빈&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=박규빈&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BXXNXXII&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BXXNXXII&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=박규빈&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BXXNXXII&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=박규빈&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BXXNXXII&theme=github-compact&hide_border=true" />
 </p>
 
 <br/>
