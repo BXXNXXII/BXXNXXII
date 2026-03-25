@@ -37,8 +37,6 @@
   백엔드는 <b>Spring Boot</b>를 중심으로 공부하고 있습니다.
 </p>
 
-<br/>
-
 <h2>🛠 Skills</h2>
 
 <h4>Frontend</h4>
