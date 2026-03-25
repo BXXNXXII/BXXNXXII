@@ -29,6 +29,21 @@
   <tr>
     <td valign="top" width="50%" align="center">
 
+<h2>🧑‍💻 About Me</h2>
+
+<p align="center">
+  안녕하세요, <b>박규빈</b>입니다.<br/>
+  프론트엔드는 꾸준히 학습하고 프로젝트를 통해 경험을 쌓고 있으며,<br/>
+  백엔드는 <b>Spring Boot</b>를 중심으로 공부하고 있습니다.
+</p>
+
+<p align="center">
+  사용자 경험을 고려한 화면 설계와<br/>
+  재사용 가능한 UI를 만드는 것을 좋아합니다.
+</p>
+
+<br/>
+
 <h2>🛠 Skills</h2>
 
 <h4>Frontend</h4>
@@ -53,10 +68,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
-
-    </td>
-    <td valign="top" width="50%" align="center">
-
+</td>
+<td valign="top" width="50%" align="center">
 <h2>📊 GitHub Stats</h2>
 
 <p>
@@ -67,7 +80,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BXXNXXII&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-    </td>
+</td>
   </tr>
 </table>
 
