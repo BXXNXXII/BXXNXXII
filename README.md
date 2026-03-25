@@ -25,40 +25,6 @@
 
 <br/>
 
-<h2 align="center">📌 Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/COW-MJU-Craft">
-    <img src="https://img.shields.io/badge/COW--MJU--Craft-명지공방-203A43?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  React 기반 프론트엔드 개발 · 사용자 경험 중심 UI 설계
-</p>
-
-<p align="center">
-  <a href="https://github.com/NOVA-MJU">
-    <img src="https://img.shields.io/badge/NOVA--MJU-Upcoming-2C5364?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  프론트엔드 담당 예정 · 협업 기반 서비스 개발 프로젝트
-</p>
-
-<p align="center">
-  <a href="https://github.com/BXXNXXII/COW-Spring-7">
-    <img src="https://img.shields.io/badge/COW--Spring--7-Backend%20Study-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  Spring Boot · MVC · JPA · MySQL 학습 중
-</p>
-
-<br/>
-
 <h2 align="center">🛠 Skills</h2>
 
 <p align="center">
