@@ -16,19 +16,38 @@
 <h2 align="center">🚀 Currently Building</h2>
 
 <p align="center">
-  🔥 <b>실제 서비스 프로젝트를 팀 단위로 개발 중입니다</b><br/><br/>
+  <b>🔥 실제 서비스 프로젝트를 팀 단위로 개발 중입니다</b>
+</p>
+
+<br/>
+
+<div align="center">
 
   <a href="https://github.com/COW-MJU-Craft">
-    👉 COW-MJU-Craft (명지공방)
-  </a><br/>
-  React 기반 프론트엔드 개발 · 사용자 경험 중심 UI 설계 · 협업 기반 서비스 개발 프로젝트<br/><br/>
+    <img src="https://img.shields.io/badge/COW--MJU--Craft-명지공방-203A43?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-  💡 단순 학습이 아닌 <b>"실제 서비스 + 협업 경험"</b>을 쌓는 중입니다
+  <p>
+    React 기반 프론트엔드 개발 · 사용자 경험 중심 UI 설계<br/>
+    협업 기반 서비스 개발 프로젝트
+  </p>
+
+  <br/>
 
   <a href="https://github.com/NOVA-MJU">
-    👉 NOVA-MJU (예정)
-  </a><br/>
-  프론트엔드 담당 예정<br/><br/> 
+    <img src="https://img.shields.io/badge/NOVA--MJU-Upcoming_Project-2C5364?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <p>
+    프론트엔드 담당 예정 · 팀 프로젝트 기반 서비스 개발
+  </p>
+
+</div>
+
+<br/>
+
+<p align="center">
+  💡 <b>단순 학습이 아닌 "실제 서비스 + 협업 경험"</b>을 쌓는 중입니다
 </p>
 
 <br/>
