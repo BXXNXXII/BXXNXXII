@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=%EB%B0%95%EA%B7%9C%EB%B9%88&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=GYUBIN%20PARK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -25,9 +25,14 @@
 
 <br/>
 
-<h2 align="center">🛠 Skills</h2>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%" align="center">
 
-<p align="center">
+<h2>🛠 Skills</h2>
+
+<h4>Frontend</h4>
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -35,26 +40,40 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-<p align="center">
+<h4>Backend</h4>
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-<p align="center">
+<h4>Tools</h4>
+<p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-<br/>
+    </td>
+    <td valign="top" width="50%" align="center">
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
-<p align="center">
+<p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BXXNXXII&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BXXNXXII&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">📈 Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BXXNXXII&theme=github-compact&hide_border=true" />
